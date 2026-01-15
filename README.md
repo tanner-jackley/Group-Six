@@ -1,5 +1,5 @@
 # Group-Six
-Tanner
-Gavin
-Juvvan
-Poornima
+Tanner 
+Gavin 
+Juvaan 
+Poornima 
